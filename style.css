@@ -1,0 +1,24 @@
+#canvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 70%;
+    border: 1px solid seagreen;
+    background: black;
+    overflow: hidden;
+}
+
+body{
+    background: black;
+}
+
+#ropeLength{
+    position: absolute;
+    left: 80%;
+    top: 30%;
+    color: white;
+    background: black;
+    border: 1px solid green;
+}
